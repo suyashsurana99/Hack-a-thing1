@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
 
         Button mButton = findViewById(R.id.button1);
 
-        mButton.setOnClickListener(new View.OnClickListener() { //I will set listener on this button
+        mButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) { //When button is clicked this line is called
+            public void onClick(View v) {
                 Log.i("Hack-a-thing","Hello World!");
             }
         });
