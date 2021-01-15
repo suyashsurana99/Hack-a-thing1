@@ -12,7 +12,7 @@ HOW TO RUN AND TEST THIS PROGRAM
 
 To Run this application, one will require the following things downloaded:
 1) Android Studio
-2) Android Smartphone that can be plugged into the computer or an Android Emulator
+2) An Android Emulator or an Android Smartphone that can be plugged into the computer 
 
 Once you have these up and running, open the github project on Android Studio. Once the project is fully built (should take a minute or so), Click the Run 'Tab' in the Drop Down menu bar at the top of the screen. Then proceed to click 'Run app'.
 A window will then open up asking you to 'Select Deployment Target'; select the android emulator you have downloaded (I use the Pixel 2 API 30 (Android 11, API 30)) and click OK. A makeshift phone screen should show up, and the application should show up on this screen. Click the Button
